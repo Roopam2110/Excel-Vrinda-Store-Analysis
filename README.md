@@ -1,1 +1,1 @@
-# Excel-Vrinda-Store-Analysis
+I am excited to present my recent project: The vrinda store sales report,showcased through an interactive Excel dashboard. This project aimed to uncover key sales insights by analyzing various customer attributes,including channels,product categories,age groups,gender,and geographical distribution across different states.
